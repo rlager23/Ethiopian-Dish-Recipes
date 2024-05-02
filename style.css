@@ -37,3 +37,28 @@ nav ul li{
  .logo{
     font-size: 24px;
  }
+ .hero{
+    width: 100%;
+    height: auto;
+    background: url(heroimg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+    text-align: center;
+    padding: 140px 0;
+    margin-bottom: 20px;
+ }
+ .hero h2{
+    font-size: 36px;
+    margin-top: 10px;
+ }
+ .hero p{
+    font-size: 20px;
+    margin-bottom: 10px;
+ }
+
+ .recipes{
+    padding: 50px 0;
+
+ }
